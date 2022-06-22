@@ -13,8 +13,8 @@ enum types{
 }
 class SelectionaryState: UIButton {
 
-    let checked = UIImage(named: "check")!
-    let uncheck = UIImage(named: "uncheck")!
+    let checked = UIImage(named: "check")
+    let uncheck = UIImage(named: "uncheck")
     
     public var isChecked:Bool = true
     public var type:types = .checkbox

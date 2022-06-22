@@ -1,1 +1,3 @@
-# Selectionary-State
+# SelectionaryStates
+
+A description of this package.
